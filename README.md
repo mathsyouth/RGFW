@@ -1,6 +1,13 @@
 # Riley's Graphics library FrameWork
 ![THE RGFW Logo](https://github.com/ColleagueRiley/RGFW/blob/main/logo.png?raw=true)
 
+RGFW embedded is a port of RGFW for embedded systems such as mobile, consoles, etc.
+This branch is where I will keep experimental non-desktop platforms 
+
+Supported platforms: None
+
+Possible platforms: libDRM, DOS, Wii, iOS, Android
+
 ## Build statuses
 ![workflow](https://github.com/ColleagueRiley/RGFW/actions/workflows/linux.yml/badge.svg)
 ![workflow windows](https://github.com/ColleagueRiley/RGFW/actions/workflows/windows.yml/badge.svg)
